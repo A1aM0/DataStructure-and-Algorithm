@@ -24,6 +24,22 @@ public:
         }
         return nums.size();
     }
+
+    /*!
+     * 双指针，快指针遍历数组，慢指针指向符合条件的元素
+     * 和上面的思路差不多
+     */
+    int removeElement2(vector<int>& nums, int val) {
+        if(nums.empty()) return 0;
+        int i = 0, j = 0;
+        for(i, j; i < nums.size(); ++i) {
+            if (nums[i] != val) {
+                nums[j] = nums[i];
+                ++j;
+            }
+        }
+        return j;
+    }
 };
 
 int main() {
