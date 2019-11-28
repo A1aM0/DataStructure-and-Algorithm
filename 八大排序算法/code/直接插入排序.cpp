@@ -19,6 +19,7 @@ int main() {
     std::cout << "结果：";
     show(array);
     std::cout << std::endl;
+    return 0;
 }
 
 void show(std::vector<int> &array) {

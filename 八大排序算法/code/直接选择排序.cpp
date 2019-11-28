@@ -17,6 +17,8 @@ int main () {
     std::cout << std::endl;
 
     straight_Selection_Sort(array);
+
+    return 0;
 }
 
 void show(std::vector<int> &array) {

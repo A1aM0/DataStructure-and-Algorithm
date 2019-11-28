@@ -20,6 +20,8 @@ int main() {
     std::cout << std::endl;
 
     quickSort_recursive(array, 0, array.size()-1);
+
+    return 0;
 }
 
 /// 显示输出
