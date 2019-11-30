@@ -29,7 +29,7 @@
 | 122 | 买卖股票的最佳时机 II（未完） | [cpp](122-Best_Time_To_Buy_And_Sell_Stock_2/main.cpp) | 简单 |
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
-| 209 | 长度最小的子数组 | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
+| 209 | 长度最小的子数组（未完） | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
 | 344 | 反转字符串 | [cpp](344_Reverse_String/main.cpp) | 简单 |
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
 | 561 | 数组拆分 I | [cpp](561_Array_Partition_I/main.cpp) | 简单 |

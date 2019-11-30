@@ -12,6 +12,9 @@ class Solution {
 public:
     /*!
      * 双指针，时间复杂度O(n)
+     * 设一个窗口，使窗口内的数加起来满足条件，保持长度右移一个单位，检查里面的数是否满足条件，再删去窗口的第一个数，继续检查；
+     * 直到找出当前窗口的最小长度，再和总的最小长度比；
+     * 比完了继续右移，直到结束。
      */
     int minSubArrayLen(int s, vector<int>& nums) {
         if (nums.empty()) return 0;
