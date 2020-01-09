@@ -27,6 +27,7 @@
 | 118 | 杨辉三角 | [cpp](118_Pascal's&#32;_Triangle/main.cpp) | 简单 |
 | 119 | 杨辉三角 II | [cpp](119-Pascal's_Triangle_II/main.cpp) | 简单 |
 | 122 | 买卖股票的最佳时机 II（未完） | [cpp](122-Best_Time_To_Buy_And_Sell_Stock_2/main.cpp) | 简单 |
+| 136 | 只出现一次的数 | [cpp](136-Single_Number/main.cpp) | 简单 |
 | 151 | 翻转字符串里的单词 | [cpp](151-Reverse_Words_in_a_String/main.cpp) | 中等 |
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
@@ -34,7 +35,7 @@
 | 283 | 移动零 | [cpp](283-Move_Zeroes/main.cpp) | 简单 |
 | 344 | 反转字符串 | [cpp](344_Reverse_String/main.cpp) | 简单 |
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
-| 498 | 对角线遍历 | [cpp](498_Diagonal_traverse) | 中等 |
+| 498 | 对角线遍历 | [cpp](498_Diagonal_traverse/main.cpp) | 中等 |
 | 557 | 反转字符串中的单词 III | [cpp](557-Reverse_Words_in_a_String&#32;III/main.cpp) | 简单 |
 | 561 | 数组拆分 I | [cpp](561_Array_Partition_I/main.cpp) | 简单 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
