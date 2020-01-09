@@ -34,6 +34,7 @@
 | 283 | 移动零 | [cpp](283-Move_Zeroes/main.cpp) | 简单 |
 | 344 | 反转字符串 | [cpp](344_Reverse_String/main.cpp) | 简单 |
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
+| 498 | 对角线遍历 | [cpp](498_Diagonal_traverse) | 中等 |
 | 557 | 反转字符串中的单词 III | [cpp](557-Reverse_Words_in_a_String&#32;III/main.cpp) | 简单 |
 | 561 | 数组拆分 I | [cpp](561_Array_Partition_I/main.cpp) | 简单 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
