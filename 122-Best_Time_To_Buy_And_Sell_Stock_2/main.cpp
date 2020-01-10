@@ -10,17 +10,20 @@ using namespace std;
 
 class Solution {
 public:
-    int maxProfit(vector<int>& prices) {
+    static int maxProfit(vector<int>& prices) { // 计算每个元素与后一位的差值，前者小于后者，则买
+        if (prices.empty()) return 0;
         int profit = 0;
-        bool sellState = false;
-        //
+        for (int i = 0; i < prices.size() - 1; ++i) {
+            profit += max(prices[i+1] - prices[i], 0);
+        }
         return profit;
     }
 };
 
 int main() {
-    Solution s;
-    vector<int> prices = {7, 1, 5, 3, 6, 4};
-    cout << s.maxProfit(prices);
+    vector<int> prices = {7, 1, 5, 3, 6, 4}; // output is 7
+//    vector<int> prices = {1, 2, 3, 4, 5}; // output is 4
+//    vector<int> prices = {7, 6, 4, 3, 1}; // output is 0
+    cout << Solution::maxProfit(prices);
     return 0;
 }
