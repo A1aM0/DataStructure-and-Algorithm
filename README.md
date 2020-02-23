@@ -39,5 +39,6 @@
 | 498 | 对角线遍历 | [cpp](498_Diagonal_traverse/main.cpp) | 中等 |
 | 557 | 反转字符串中的单词 III | [cpp](557-Reverse_Words_in_a_String&#32;III/main.cpp) | 简单 |
 | 561 | 数组拆分 I | [cpp](561_Array_Partition_I/main.cpp) | 简单 |
+| 707 | 设计链表 | [cpp](707-Design_Linked_List/main.cpp) | 中等 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
