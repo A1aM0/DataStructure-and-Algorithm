@@ -30,6 +30,7 @@
 | 122 | 买卖股票的最佳时机 II | [cpp](122-Best_Time_To_Buy_And_Sell_Stock_2/main.cpp) | 简单 |
 | 136 | 只出现一次的数 | [cpp](136-Single_Number/main.cpp) | 简单 |
 | 141 | 环形链表I | [cpp](141-Linked_List_Cycle/main.cpp) | 简单 |
+| 142 | 环形链表II | [cpp](142-Linked_List_Cycle_II/main.cpp) | 中等 |
 | 151 | 翻转字符串里的单词 | [cpp](151-Reverse_Words_in_a_String/main.cpp) | 中等 |
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
