@@ -32,6 +32,7 @@
 | 141 | 环形链表I | [cpp](141-Linked_List_Cycle/main.cpp) | 简单 |
 | 142 | 环形链表II | [cpp](142-Linked_List_Cycle_II/main.cpp) | 中等 |
 | 151 | 翻转字符串里的单词 | [cpp](151-Reverse_Words_in_a_String/main.cpp) | 中等 |
+| 160 | 相交链表 | [cpp](160-Intersection_of_Two_Linked_Lists/main.cpp) | 简单 |
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
 | 209 | 长度最小的子数组（未完） | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
