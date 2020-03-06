@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Interview_questions_Continuous_positive_sequence_of_s)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Interview_questions_Continuous_positive_sequence_of_s main.cpp)
