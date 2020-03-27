@@ -48,5 +48,6 @@
 | 707 | 设计链表 | [cpp](707-Design_Linked_List/main.cpp) | 中等 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
+| 914 | 卡牌分组 | [cpp](914-X_of_a_%20Kind_in_a_Deck_of_Cards/main.cpp) | 简单 |
 | 面试题 10.01 | 合并排序的数组 | [cpp](Interview-questions-Sorted_Merge_LCCI/main.cpp) | 简单 |
 | 面试题 57-II | 和为s的连续正数序列 | [cpp](Interview-questions-Continuous_positive_sequence_of_s/main.cpp) | 简单 |
