@@ -41,6 +41,7 @@
 | 203 | 移除链表元素 | [cpp](203-Remove_Linked_List_Elements/main.cpp) | 简单 |
 | 206 | 反转链表 | [cpp](206-Reverse_Linked_List/main.cpp) | 简单 |
 | 209 | 长度最小的子数组（未完） | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
+| 217 | 存在重复元素（未做） | [cpp](217-Contains_Duplicate/main.cpp) | 简单 |
 | 234 | 回文链表 | [cpp](234-Palindrome_Linked_List/main.cpp) | 简单 |
 | 283 | 移动零 | [cpp](283-Move_Zeroes/main.cpp) | 简单 |
 | 322 | 零钱兑换 | [cpp](322-Coin_Change/main.cpp) | 中等 |
@@ -50,6 +51,7 @@
 | 498 | 对角线遍历 | [cpp](498_Diagonal_traverse/main.cpp) | 中等 |
 | 557 | 反转字符串中的单词 III | [cpp](557-Reverse_Words_in_a_String&#32;III/main.cpp) | 简单 |
 | 561 | 数组拆分 I | [cpp](561_Array_Partition_I/main.cpp) | 简单 |
+| 622 | 设计循环队列（未做） | [cpp](622-Design_Circular_Queue/main.cpp) | 中等 |
 | 707 | 设计链表 | [cpp](707-Design_Linked_List/main.cpp) | 中等 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
