@@ -40,6 +40,7 @@
 | 203 | 移除链表元素 | [cpp](203-Remove_Linked_List_Elements/main.cpp) | 简单 |
 | 206 | 反转链表 | [cpp](206-Reverse_Linked_List/main.cpp) | 简单 |
 | 209 | 长度最小的子数组（未完） | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
+| 234 | 回文链表 | [cpp](234-Palindrome_Linked_List/main.cpp) | 简单 |
 | 283 | 移动零 | [cpp](283-Move_Zeroes/main.cpp) | 简单 |
 | 322 | 零钱兑换 | [cpp](322-Coin_Change/main.cpp) | 中等 |
 | 328 | 奇偶链表 | [cpp](328-Odd_Even_Linked_List/main.cpp) | 中等 |
