@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Interview_question_The_last_number_left_in_circle)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Interview_question_The_last_number_left_in_circle main.cpp)
