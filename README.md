@@ -26,6 +26,7 @@
 | 35 | 搜索插入位置 | [cpp](35-Search_Insert_Position/main.cpp) | 简单 |
 | 53 | 最大子序和 | [cpp](53-Maximum_Subarray/main.cpp) | 简单 |
 | 54 | 螺旋矩阵 | [cpp](54_Spiral_Matrix/main.cpp) | 中等 |
+| 61 | 旋转链表 | [cpp](61-Rotate_List/main.cpp) | 中等 |
 | 66 | 加一 | [cpp](66_Plus_One/main.cpp) | 简单 |
 | 67 | 二进制求和 | [cpp](67_Add_Binary/main.cpp) | 简单 |
 | 118 | 杨辉三角 | [cpp](118_Pascal's&#32;_Triangle/main.cpp) | 简单 |
