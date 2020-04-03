@@ -17,6 +17,7 @@
 | 2 | 两数相加 | [cpp](2-Add_Two_Numbers/main.cpp) | 中等 |
 | 5 | 最长回文子串 | [cpp](5_Longest_Palindromic_Substring/main.cpp) | 中等 |
 | 7 | 整数反转 | [cpp](7-Reverse_Integer/main.cpp) | 简单 |
+| 8 | 字符串转换整数 (atoi) | [cpp](8-String_to_Integer(atoi)/main.cpp) | 中等 |
 | 14 | 最长公共前缀 | [cpp](14_Longest_Common_Prefix/main.cpp) | 简单 |
 | 19 | 删除链表的倒数第N个节点 | [cpp](19-Remove_Nth_Node_From_End_of_List/main.cpp) | 中等 |
 | 21 | 合并两个有序的链表 | [cpp](21-Merge_Two_Sorted_Lists/main.cpp) | 简单 |
