@@ -25,114 +25,78 @@
 
 #include <iostream>
 #include <vector>
+using namespace std;
 
-/*!
- * @brief 队列
- *
- * 这是一种最简单的队列，具有入队、出队、判断空、查询队头的功能。
- * 但是存在弊端：当入队与出队次数增加后，p_start参数会增加至非常大，并且数组data会占用更大的空间。
- * 所以需要其他的优化。
- */
-class MyQueue {
-public:
-    /// 初始化队列，指向队头的指针为0.
-    MyQueue() {
-        p_start = 0;
-    }
-
-    /// 向队尾插入元素
-    /// @param num 想要插入的元素
-    /// @return 0表示添加完成
-    int addQueue(int num) {
-        data.push_back(num);
-        return 0;
-    }
-
-    int delQueue() {
-        if (p_start >= data.size()) return -1;
-        p_start ++;
-        return 0;
-    }
-
-    int front(){
-        return data[p_start];
-    }
-
-    bool isEmpty(){
-        if (p_start < data.size()) return false;
-        else return true;
-    }
-
-private:
-    int p_start;
-    std::vector<int> data;
-};
-
-/* Your MyCircularQueue object will be instantiated and called as such:
- * MyCircularQueue* obj = new MyCircularQueue(k);
- * bool param_1 = obj->enQueue(value);
- * bool param_2 = obj->deQueue();
- * int param_3 = obj->Front();
- * int param_4 = obj->Rear();
- * bool param_5 = obj->isEmpty();
- * bool param_6 = obj->isFull();
- */
 class MyCircularQueue {
 public:
     /** Initialize your data structure here. Set the size of the queue to be k. */
     MyCircularQueue(int k) {
-
+        head = 0; // 头指针记录队头
+        tail = 0; // 尾指针记录队尾的下一个位置！！！
+        circularQueue.resize(k);
+        queueLength = 0; // 记录队列实际有效的长度
     }
 
     /** Insert an element into the circular queue. Return true if the operation is successful. */
     bool enQueue(int value) {
-
+        // 先检查满队
+        if (isFull()) return false;
+        // 插入
+        circularQueue[tail] = value;
+        tail = (tail + 1) % circularQueue.size();
+        queueLength++;
+        return true;
     }
 
     /** Delete an element from the circular queue. Return true if the operation is successful. */
     bool deQueue() {
-
+        // 先检查空队
+        if (isEmpty()) return false;
+        // 删
+        head = (head + 1) % circularQueue.size();
+        queueLength--;
+        return true;
     }
 
     /** Get the front item from the queue. */
     int Front() {
-
+        if (isEmpty()) return -1;
+        return circularQueue[(head) % circularQueue.size()];
     }
 
     /** Get the last item from the queue. */
     int Rear() {
-
+        if(isEmpty()) return -1;
+        return circularQueue[(tail - 1 + circularQueue.size()) % circularQueue.size()]; // tail指向队尾下一个位置，所以队尾是tail的前一个元素
     }
 
     /** Checks whether the circular queue is empty or not. */
     bool isEmpty() {
-
+        return queueLength == 0;
     }
 
     /** Checks whether the circular queue is full or not. */
     bool isFull() {
-
+        return queueLength == circularQueue.size();
     }
+
+private:
+    int head, tail, queueLength;
+    vector<int> circularQueue;
 };
 
-void testMyQueue(){
-    MyQueue q;
-    q.addQueue(5);
-    q.addQueue(3);
-    if (!q.isEmpty()) {
-        std::cout << q.front() << std::endl;
-    }
-    q.delQueue();
-    if (!q.isEmpty()) {
-        std::cout << q.front() << std::endl;
-    }
-    q.delQueue();
-    if (!q.isEmpty()) {
-        std::cout << q.front() << std::endl;
-    }
-}
-
 int main() {
-    testMyQueue();
+
+    MyCircularQueue* obj = new MyCircularQueue(3);
+    bool param_1 = obj->enQueue(1);
+    bool param_2 = obj->enQueue(2);
+    bool param_3 = obj->enQueue(3);
+    bool param_4 = obj->enQueue(4);
+    int param_5 = obj->Rear();
+    bool param_6 = obj->isFull();
+    bool param_7 = obj->deQueue();
+    bool param_8 = obj->enQueue(4);
+    int param_9 = obj->Rear();
+
     return 0;
 }
