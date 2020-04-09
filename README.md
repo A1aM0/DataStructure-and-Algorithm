@@ -39,6 +39,7 @@
 | 136 | 只出现一次的数 | [cpp](136-Single_Number/main.cpp) | 简单 |
 | 141 | 环形链表I | [cpp](141-Linked_List_Cycle/main.cpp) | 简单 |
 | 142 | 环形链表II | [cpp](142-Linked_List_Cycle_II/main.cpp) | 中等 |
+| 150 | 逆波兰表达式求值 | [cpp](150-Evaluate_Reverse_Polish_Notation/main.cpp) | 中等 |
 | 151 | 翻转字符串里的单词 | [cpp](151-Reverse_Words_in_a_String/main.cpp) | 中等 |
 | 155 | 最小栈 | [cpp](155-Min_Stack/main.cpp) | 简单 |
 | 160 | 相交链表 | [cpp](160-Intersection_of_Two_Linked_Lists/main.cpp) | 简单 |
