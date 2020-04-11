@@ -13,4 +13,11 @@ struct DoublyListNode {
     DoublyListNode(int x) : val(x), next(NULL), prev(NULL) {}
 };
 
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};
+
 #endif
