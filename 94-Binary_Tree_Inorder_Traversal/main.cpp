@@ -12,7 +12,7 @@ using namespace std;
 
 class Solution {
 public:
-    vector<int> preorderTraversal(TreeNode* root) {
+    vector<int> inorderTraversal(TreeNode* root) {
         // 递归
 //        recursive(root);
         // 迭代
@@ -61,7 +61,7 @@ int main() {
     node1->right = node2;
     node2->left = node3;
     Solution s;
-    vector<int> res = s.preorderTraversal(node1);
+    vector<int> res = s.inorderTraversal(node1);
     for (int nodeVal : res) cout << nodeVal << " ";
     return 0;
 }
