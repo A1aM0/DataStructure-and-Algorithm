@@ -17,7 +17,7 @@ struct TreeNode {
     int val;
     TreeNode *left;
     TreeNode *right;
-    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+    TreeNode(int x, TreeNode* l = NULL, TreeNode *r = NULL) : val(x), left(l), right(r) {}
 };
 
 #endif
