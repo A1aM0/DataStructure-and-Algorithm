@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal ../dataStructure.hxx main.cpp)
