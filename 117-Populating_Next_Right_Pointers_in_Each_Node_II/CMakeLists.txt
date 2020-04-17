@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(117_Populating_Next_Right_Pointers_in_Each_Node_II)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(117_Populating_Next_Right_Pointers_in_Each_Node_II main.cpp)
