@@ -79,5 +79,6 @@
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
 | 914 | 卡牌分组 | [cpp](914-X_of_a_%20Kind_in_a_Deck_of_Cards/main.cpp) | 简单 |
 | 面试题 62 | 圆圈中最后剩下的数字 | [cpp](Interview-question-The_last_number_left_in_circle/main.cpp) | 简单 |
+| 面试题 68 - II | 二叉树的最近公共祖先 | [cpp](InterviewQuestion-68-II_Lowest_Common_Ancestors_of_Binary_Tree/main.cpp) | 简单 |
 | 面试题 10.01 | 合并排序的数组 | [cpp](Interview-questions-Sorted_Merge_LCCI/main.cpp) | 简单 |
 | 面试题 57-II | 和为s的连续正数序列 | [cpp](Interview-questions-Continuous_positive_sequence_of_s/main.cpp) | 简单 |
