@@ -29,6 +29,7 @@
 | 35 | 搜索插入位置 | [cpp](35-Search_Insert_Position/main.cpp) | 简单 |
 | 53 | 最大子序和 | [cpp](53-Maximum_Subarray/main.cpp) | 简单 |
 | 54 | 螺旋矩阵 | [cpp](54_Spiral_Matrix/main.cpp) | 中等 |
+| 55 | 跳跃游戏 | [cpp](55-Jump_Game/main.cpp) | 中等 |
 | 56 | 合并区间 | [cpp](56-Merge_Intervals/main.cpp) | 中等 |
 | 61 | 旋转链表 | [cpp](61-Rotate_List/main.cpp) | 中等 |
 | 66 | 加一 | [cpp](66_Plus_One/main.cpp) | 简单 |
