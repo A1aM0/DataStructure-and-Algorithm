@@ -34,6 +34,7 @@
 | 61 | 旋转链表 | [cpp](61-Rotate_List/main.cpp) | 中等 |
 | 66 | 加一 | [cpp](66_Plus_One/main.cpp) | 简单 |
 | 67 | 二进制求和 | [cpp](67_Add_Binary/main.cpp) | 简单 |
+| 69 |  x 的平方根 | [cpp](69-Sqrt(x)/main.cpp) | 简单 |
 | 94 | 二叉树的中序遍历 | [cpp](94-Binary_Tree_Inorder_Traversal/main.cpp) | 中等 |
 | 101 | 对称二叉树 | [cpp](101-Symmetric_Tree/main.cpp) | 简单 |
 | 102 | 二叉树的层序遍历 | [cpp](102-Binary_Tree_Level_Order_Traversal/main.cpp) | 中等 |
