@@ -68,6 +68,7 @@
 | 322 | 零钱兑换 | [cpp](322-Coin_Change/main.cpp) | 中等 |
 | 328 | 奇偶链表 | [cpp](328-Odd_Even_Linked_List/main.cpp) | 中等 |
 | 344 | 反转字符串 | [cpp](344_Reverse_String/main.cpp) | 简单 |
+| 374 | 猜数字大小 | [cpp](374-Guess_Number_Higher_or_Lower/main.cpp) | 简单 |
 | 445 | 两数相加 II | [cpp](445-Add_Two_Numbers_II/main.cpp) | 中等 |
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
 | 498 | 对角线遍历 | [cpp](498_Diagonal_traverse/main.cpp) | 中等 |
