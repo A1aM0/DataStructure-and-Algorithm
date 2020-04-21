@@ -26,6 +26,7 @@
 | 26 | 删除排序数组中的重复项 | [cpp](26-Remove_Duplicates_From_Sorted_Arrays/main.cpp) | 简单 |
 | 27 | 移除元素 | [cpp](27-Remove_Element/main.cpp) | 简单|
 | 28 | 实现str() | [cpp](28_&#32;Implement_strStr/main.cpp) | 简单 |
+| 33 | 搜索旋转排序数组 | [cpp](33-Search_in_Rotated_Sorted_Array/main.cpp) | 中等 |
 | 35 | 搜索插入位置 | [cpp](35-Search_Insert_Position/main.cpp) | 简单 |
 | 53 | 最大子序和 | [cpp](53-Maximum_Subarray/main.cpp) | 简单 |
 | 54 | 螺旋矩阵 | [cpp](54_Spiral_Matrix/main.cpp) | 中等 |
