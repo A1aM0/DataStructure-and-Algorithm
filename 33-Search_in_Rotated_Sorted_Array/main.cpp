@@ -22,7 +22,7 @@ public:
             else if (nums[mid] < nums[right]) {
                 if (nums[mid] < target && target <= nums[right]) left = mid + 1;
                 else right = mid - 1;
-            } else if (nums[mid] > nums[left]) {
+            } else {
                 if (nums[mid] > target && target >= nums[left]) right = mid - 1;
                 else left = mid + 1;
             }
