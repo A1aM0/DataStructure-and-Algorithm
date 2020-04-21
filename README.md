@@ -58,6 +58,7 @@
 | 151 | 翻转字符串里的单词 | [cpp](151-Reverse_Words_in_a_String/main.cpp) | 中等 |
 | 155 | 最小栈 | [cpp](155-Min_Stack/main.cpp) | 简单 |
 | 160 | 相交链表 | [cpp](160-Intersection_of_Two_Linked_Lists/main.cpp) | 简单 |
+| 162 | 寻找峰值 | [cpp](162-Find_Peak_Element/main.cpp) | 中等 |
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
 | 200 | 岛屿数量 | [cpp](200-Number_of_Islands/main.cpp) | 中等 |
