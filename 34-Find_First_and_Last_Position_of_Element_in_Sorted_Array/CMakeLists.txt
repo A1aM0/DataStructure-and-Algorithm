@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(34_Find_First_and_Last_Position_of_Element_in_Sorted_Array)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(34_Find_First_and_Last_Position_of_Element_in_Sorted_Array main.cpp)

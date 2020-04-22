@@ -27,6 +27,7 @@
 | 27 | 移除元素 | [cpp](27-Remove_Element/main.cpp) | 简单|
 | 28 | 实现str() | [cpp](28_&#32;Implement_strStr/main.cpp) | 简单 |
 | 33 | 搜索旋转排序数组 | [cpp](33-Search_in_Rotated_Sorted_Array/main.cpp) | 中等 |
+| 34 | 在排序数组中查找元素的第一个和最后一个位置 | [cpp](34-Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | 中等 |
 | 35 | 搜索插入位置 | [cpp](35-Search_Insert_Position/main.cpp) | 简单 |
 | 53 | 最大子序和 | [cpp](53-Maximum_Subarray/main.cpp) | 简单 |
 | 54 | 螺旋矩阵 | [cpp](54_Spiral_Matrix/main.cpp) | 中等 |
