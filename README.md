@@ -89,6 +89,7 @@
 | 707 | 设计链表 | [cpp](707-Design_Linked_List/main.cpp) | 中等 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
 | 739 | 每日温度 | [cpp](739-Daily_Temperatures/main.cpp) | 中等 |
+| 744 | 寻找比目标字母大的最小字母 | [cpp](744-Find_Smallest_Letter_Greater_Than_Target/main.cpp) | 简单 |
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
 | 914 | 卡牌分组 | [cpp](914-X_of_a_%20Kind_in_a_Deck_of_Cards/main.cpp) | 简单 |
 | 面试题 62 | 圆圈中最后剩下的数字 | [cpp](Interview-question-The_last_number_left_in_circle/main.cpp) | 简单 |

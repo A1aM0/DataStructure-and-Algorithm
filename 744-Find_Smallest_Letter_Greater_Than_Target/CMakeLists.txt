@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(744_Find_Smallest_Letter_Greater_Than_Target)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(744_Find_Smallest_Letter_Greater_Than_Target main.cpp)
