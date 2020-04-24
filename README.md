@@ -59,6 +59,7 @@
 | 150 | 逆波兰表达式求值 | [cpp](150-Evaluate_Reverse_Polish_Notation/main.cpp) | 中等 |
 | 151 | 翻转字符串里的单词 | [cpp](151-Reverse_Words_in_a_String/main.cpp) | 中等 |
 | 153 | 寻找旋转排序数组中的最小值 | [cpp](153-Find_Minimum_in_Rotated_Sorted_Array/main.cpp) | 中等 |
+| 154 | 寻找旋转排序数组中的最小值 II | [cpp](154-Find_Minimum_in_Rotated_Sorted_Array_II/main.cpp) | 困难 |
 | 155 | 最小栈 | [cpp](155-Min_Stack/main.cpp) | 简单 |
 | 160 | 相交链表 | [cpp](160-Intersection_of_Two_Linked_Lists/main.cpp) | 简单 |
 | 162 | 寻找峰值 | [cpp](162-Find_Peak_Element/main.cpp) | 中等 |
