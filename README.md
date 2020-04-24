@@ -74,6 +74,7 @@
 | 234 | 回文链表 | [cpp](234-Palindrome_Linked_List/main.cpp) | 简单 |
 | 278 | 第一个错误的版本 | [cpp](278-First_Bad_Version/main.cpp) | 简单 |
 | 283 | 移动零 | [cpp](283-Move_Zeroes/main.cpp) | 简单 |
+| 287 | 寻找重复数 | [cpp](278-First_Bad_Version/main.cpp) | 中等 |
 | 322 | 零钱兑换 | [cpp](322-Coin_Change/main.cpp) | 中等 |
 | 328 | 奇偶链表 | [cpp](328-Odd_Even_Linked_List/main.cpp) | 中等 |
 | 344 | 反转字符串 | [cpp](344_Reverse_String/main.cpp) | 简单 |
