@@ -90,6 +90,7 @@
 | 658 | 找到 K 个最接近的元素 | [cpp](658-Find_K_Closest_Elements/main.cpp) | 中等 |
 | 704 | 二分查找 | [cpp](704-Binary_Search/main.cpp) | 简单 |
 | 707 | 设计链表 | [cpp](707-Design_Linked_List/main.cpp) | 中等 |
+| 719 | 找出第 k 小的距离对 | [cpp](719-Find_Kth_Smallest_Pair_Distance/main.cpp) | 困难 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
 | 739 | 每日温度 | [cpp](739-Daily_Temperatures/main.cpp) | 中等 |
 | 744 | 寻找比目标字母大的最小字母 | [cpp](744-Find_Smallest_Letter_Greater_Than_Target/main.cpp) | 简单 |
