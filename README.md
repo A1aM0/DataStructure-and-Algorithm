@@ -91,6 +91,7 @@
 | 622 | 设计循环队列 | [cpp](622-Design_Circular_Queue/main.cpp) | 中等 |
 | 658 | 找到 K 个最接近的元素 | [cpp](658-Find_K_Closest_Elements/main.cpp) | 中等 |
 | 700 | 二叉搜索树中的搜索 | [cpp](700-Search_in_a_Binary_Search_Tree/main.cpp) | 简单 |
+| 701 | 二叉搜索树中的插入操作 | [cpp](701-Insert_into_a_Binary_Search_Tree/main.cpp) | 中等 |
 | 704 | 二分查找 | [cpp](704-Binary_Search/main.cpp) | 简单 |
 | 707 | 设计链表 | [cpp](707-Design_Linked_List/main.cpp) | 中等 |
 | 719 | 找出第 k 小的距离对 | [cpp](719-Find_Kth_Smallest_Pair_Distance/main.cpp) | 困难 |
