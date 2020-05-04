@@ -84,6 +84,7 @@
 | 367 | 有效的完全平方数 | [cpp](367-Valid_Perfect_Square/main.cpp) | 简单 |
 | 374 | 猜数字大小 | [cpp](374-Guess_Number_Higher_or_Lower/main.cpp) | 简单 |
 | 445 | 两数相加 II | [cpp](445-Add_Two_Numbers_II/main.cpp) | 中等 |
+| 450 | 删除二叉搜索树中的节点 | [cpp](450-Delete_Node_in_a_BST/main.cpp) | 中等 |
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
 | 498 | 对角线遍历 | [cpp](498_Diagonal_traverse/main.cpp) | 中等 |
 | 557 | 反转字符串中的单词 III | [cpp](557-Reverse_Words_in_a_String&#32;III/main.cpp) | 简单 |
