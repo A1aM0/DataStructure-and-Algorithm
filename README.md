@@ -102,6 +102,7 @@
 | 701 | 二叉搜索树中的插入操作 | [cpp](701-Insert_into_a_Binary_Search_Tree/main.cpp) | 中等 |
 | 703 | 数据流中的第K大元素（二叉搜索树法没通过全部测试用例） | [cpp](703-Kth_Largest_Element_in_a_Stream/main.cpp) | 简单 |
 | 704 | 二分查找 | [cpp](704-Binary_Search/main.cpp) | 简单 |
+| 705 | 设计哈希集合 | [cpp](705-Design_HashSet/main.cpp) | 简单 |
 | 707 | 设计链表 | [cpp](707-Design_Linked_List/main.cpp) | 中等 |
 | 719 | 找出第 k 小的距离对 | [cpp](719-Find_Kth_Smallest_Pair_Distance/main.cpp) | 困难 |
 | 724 | 寻找数组的中心索引 | [cpp](724_Find_Pivot_Index/main.cpp) | 简单 |
