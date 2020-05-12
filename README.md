@@ -72,6 +72,7 @@
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
 | 199 | 二叉树的右视图 | [cpp](199-Binary_Tree_Right_Side_View/main.cpp) | 中等 |
 | 200 | 岛屿数量 | [cpp](200-Number_of_Islands/main.cpp) | 中等 |
+| 202 | 快乐数 | [cpp](202-Happy_Number/main.cpp) | 简单 |
 | 203 | 移除链表元素 | [cpp](203-Remove_Linked_List_Elements/main.cpp) | 简单 |
 | 206 | 反转链表 | [cpp](206-Reverse_Linked_List/main.cpp) | 简单 |
 | 209 | 长度最小的子数组（未完） | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
