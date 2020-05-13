@@ -91,6 +91,7 @@
 | 349 | 两个数组的交集 | [cpp](349-Intersection_of_Two_Arrays/main.cpp) | 简单 |
 | 367 | 有效的完全平方数 | [cpp](367-Valid_Perfect_Square/main.cpp) | 简单 |
 | 374 | 猜数字大小 | [cpp](374-Guess_Number_Higher_or_Lower/main.cpp) | 简单 |
+| 387 | 字符串中的第一个唯一字符 | [cpp](387-First_Unique_Character_in_a_String/main.cpp) | 简单 |
 | 445 | 两数相加 II | [cpp](445-Add_Two_Numbers_II/main.cpp) | 中等 |
 | 450 | 删除二叉搜索树中的节点 | [cpp](450-Delete_Node_in_a_BST/main.cpp) | 中等 |
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
