@@ -78,6 +78,7 @@
 | 205 | 同构字符串 | [cpp](205-Isomorphic_Strings/main.cpp) | 简单 |
 | 209 | 长度最小的子数组（未完） | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
 | 217 | 存在重复元素 | [cpp](217-Contains_Duplicate/main.cpp) | 简单 |
+| 219 | 存在重复元素 II | [cpp](219-Contains_Duplicate_II/main.cpp) | 简单 |
 | 220 | 存在重复元素 III | [cpp](220-Contains_Duplicate_III/main.cpp) | 中等 |
 | 221 | 最大正方形 | [cpp](221-Maximal_Square/main.cpp) | 中等 |
 | 234 | 回文链表 | [cpp](234-Palindrome_Linked_List/main.cpp) | 简单 |
