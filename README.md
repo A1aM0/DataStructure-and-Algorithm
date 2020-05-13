@@ -89,6 +89,7 @@
 | 328 | 奇偶链表 | [cpp](328-Odd_Even_Linked_List/main.cpp) | 中等 |
 | 344 | 反转字符串 | [cpp](344_Reverse_String/main.cpp) | 简单 |
 | 349 | 两个数组的交集 | [cpp](349-Intersection_of_Two_Arrays/main.cpp) | 简单 |
+| 350 | 两个数组的交集 II | [cpp](350-Intersection_of_Two_Arrays_II/main.cpp) | 简单 |
 | 367 | 有效的完全平方数 | [cpp](367-Valid_Perfect_Square/main.cpp) | 简单 |
 | 374 | 猜数字大小 | [cpp](374-Guess_Number_Higher_or_Lower/main.cpp) | 简单 |
 | 387 | 字符串中的第一个唯一字符 | [cpp](387-First_Unique_Character_in_a_String/main.cpp) | 简单 |
