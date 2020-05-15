@@ -99,6 +99,7 @@
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
 | 498 | 对角线遍历 | [cpp](498_Diagonal_traverse/main.cpp) | 中等 |
 | 557 | 反转字符串中的单词 III | [cpp](557-Reverse_Words_in_a_String&#32;III/main.cpp) | 简单 |
+| 560 | 和为K的子数组 | [cpp](560-Subarray_Sum_Equals_K/main.cpp) | 中等 |
 | 561 | 数组拆分 I | [cpp](561_Array_Partition_I/main.cpp) | 简单 |
 | 572 | 另一个树的子树 | [cpp](572-Subtree_of_Another_Tree/main.cpp) | 简单 |
 | 599 | 两个列表的最小索引总和 | [cpp](599-Minimum_Index_Sum_of_Two_Lists/main.cpp) | 简单 |
