@@ -15,6 +15,7 @@
 | :----: | :----- | :----: | :-----: |
 | 1 | 两数之和 | [cpp](1-Two_Sum/main.cpp) | 简单 |
 | 2 | 两数相加 | [cpp](2-Add_Two_Numbers/main.cpp) | 中等 |
+| 3 | 无重复字符的最长子串 | [cpp](3-Longest_Substring_Without_Repeating_Characters/main.cpp) | 中等 |
 | 5 | 最长回文子串 | [cpp](5_Longest_Palindromic_Substring/main.cpp) | 中等 |
 | 7 | 整数反转 | [cpp](7-Reverse_Integer/main.cpp) | 简单 |
 | 8 | 字符串转换整数 (atoi) | [cpp](8-String_to_Integer(atoi)/main.cpp) | 中等 |
