@@ -107,6 +107,7 @@
 | 572 | 另一个树的子树 | [cpp](572-Subtree_of_Another_Tree/main.cpp) | 简单 |
 | 599 | 两个列表的最小索引总和 | [cpp](599-Minimum_Index_Sum_of_Two_Lists/main.cpp) | 简单 |
 | 622 | 设计循环队列 | [cpp](622-Design_Circular_Queue/main.cpp) | 中等 |
+| 652 | 寻找重复的子树 | [cpp](652-Find_Duplicate_Subtrees/main.cpp) | 中等 |
 | 658 | 找到 K 个最接近的元素 | [cpp](658-Find_K_Closest_Elements/main.cpp) | 中等 |
 | 700 | 二叉搜索树中的搜索 | [cpp](700-Search_in_a_Binary_Search_Tree/main.cpp) | 简单 |
 | 701 | 二叉搜索树中的插入操作 | [cpp](701-Insert_into_a_Binary_Search_Tree/main.cpp) | 中等 |
