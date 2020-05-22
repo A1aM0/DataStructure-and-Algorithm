@@ -60,6 +60,7 @@
 | 119 | 杨辉三角 II | [cpp](119-Pascal's_Triangle_II/main.cpp) | 简单 |
 | 122 | 买卖股票的最佳时机 II | [cpp](122-Best_Time_To_Buy_And_Sell_Stock_2/main.cpp) | 简单 |
 | 121 | 买卖股票的最佳时机 | [cpp](121-Best_Time_To_Buy_And_Sell_Stock/main.cpp) | 简单 |
+| 125 | 验证回文字符串 | [cpp](125_Valid_Palindrome/main.cpp) | 简单 |
 | 136 | 只出现一次的数 | [cpp](136-Single_Number/main.cpp) | 简单 |
 | 141 | 环形链表I | [cpp](141-Linked_List_Cycle/main.cpp) | 简单 |
 | 142 | 环形链表II | [cpp](142-Linked_List_Cycle_II/main.cpp) | 中等 |
