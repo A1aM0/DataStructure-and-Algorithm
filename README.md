@@ -32,6 +32,7 @@
 | 34 | 在排序数组中查找元素的第一个和最后一个位置 | [cpp](34-Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | 中等 |
 | 35 | 搜索插入位置 | [cpp](35-Search_Insert_Position/main.cpp) | 简单 |
 | 36 | 有效的数独 | [cpp](36-Valid_Sudoku/main.cpp) | 中等 |
+| 48 | 旋转图像 | [cpp](48-Rotate_Image/main.cpp) | 中等 |
 | 49 | 字母异位词分组 | [cpp](49-Group_Anagrams/main.cpp) | 中等 |
 | 50 | Pow(x, n) | [cpp](50-Pow_Function/main.cpp) | 中等 |
 | 53 | 最大子序和 | [cpp](53-Maximum_Subarray/main.cpp) | 简单 |
