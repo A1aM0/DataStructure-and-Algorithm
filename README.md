@@ -43,7 +43,8 @@
 | 61 | 旋转链表 | [cpp](61-Rotate_List/main.cpp) | 中等 |
 | 66 | 加一 | [cpp](66_Plus_One/main.cpp) | 简单 |
 | 67 | 二进制求和 | [cpp](67_Add_Binary/main.cpp) | 简单 |
-| 69 |  x 的平方根 | [cpp](69-Sqrt(x)/main.cpp) | 简单 |
+| 69 | x 的平方根 | [cpp](69-Sqrt(x)/main.cpp) | 简单 |
+| 76 | 最小覆盖子串 | [cpp](76-Minimum_Window_Substring/main.cpp) | 困难 |
 | 94 | 二叉树的中序遍历 | [cpp](94-Binary_Tree_Inorder_Traversal/main.cpp) | 中等 |
 | 98 | 验证二叉搜索树 | [cpp](98-Validate_Binary_Search_Tree/main.cpp) | 中等 |
 | 100 | 相同的树 | [cpp](100-Same_Tree/main.cpp) | 简单 |
