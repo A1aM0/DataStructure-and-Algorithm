@@ -44,6 +44,7 @@
 | 66 | 加一 | [cpp](66_Plus_One/main.cpp) | 简单 |
 | 67 | 二进制求和 | [cpp](67_Add_Binary/main.cpp) | 简单 |
 | 69 | x 的平方根 | [cpp](69-Sqrt(x)/main.cpp) | 简单 |
+| 70 | 爬楼梯 | [cpp](704-Binary_Search/main.cpp) | 简单 |
 | 76 | 最小覆盖子串 | [cpp](76-Minimum_Window_Substring/main.cpp) | 困难 |
 | 88 | 合并两个有序数组 | [cpp](88-Merge_Sorted_Array/main.cpp) | 简单 |
 | 94 | 二叉树的中序遍历 | [cpp](94-Binary_Tree_Inorder_Traversal/main.cpp) | 中等 |
