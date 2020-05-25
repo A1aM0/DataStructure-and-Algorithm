@@ -70,6 +70,7 @@
 | 142 | 环形链表II | [cpp](142-Linked_List_Cycle_II/main.cpp) | 中等 |
 | 144 | 二叉树的前序遍历 | [cpp](144-Binary_Tree_Preorder_Traversal/main.cpp) | 中等 |
 | 145 | 二叉树的后序遍历 | [cpp](145-Binary_Tree_Postorder_Traversal/main.cpp) | 困难 |
+| 146 | LRU缓存机制 | [cpp](146-LRU_Cache/main.cpp) | 中等 |
 | 150 | 逆波兰表达式求值 | [cpp](150-Evaluate_Reverse_Polish_Notation/main.cpp) | 中等 |
 | 151 | 翻转字符串里的单词 | [cpp](151-Reverse_Words_in_a_String/main.cpp) | 中等 |
 | 153 | 寻找旋转排序数组中的最小值 | [cpp](153-Find_Minimum_in_Rotated_Sorted_Array/main.cpp) | 中等 |
