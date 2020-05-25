@@ -81,6 +81,7 @@
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
 | 173 | 二叉搜索树迭代器 | [cpp](173-Binary_Search_Tree_Iterator/main.cpp) | 中等 |
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
+| 198 | 打家劫舍 | [cpp](198-House_Robber/main.cpp) | 简单 |
 | 199 | 二叉树的右视图 | [cpp](199-Binary_Tree_Right_Side_View/main.cpp) | 中等 |
 | 200 | 岛屿数量 | [cpp](200-Number_of_Islands/main.cpp) | 中等 |
 | 202 | 快乐数 | [cpp](202-Happy_Number/main.cpp) | 简单 |
