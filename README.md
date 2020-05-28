@@ -1,9 +1,9 @@
 # Data Structure and Algorithm
 
-![GitHub top language](https://img.shields.io/github/languages/top/A1aM0/Leetcode)
-![LeetCode](https://badgen.net/github/stars/A1aM0/LeetCode)
-![LeetCode](https://badgen.net/github/commits/A1aM0/LeetCode)
-![LeetCode](https://badgen.net/github/last-commit/A1aM0/LeetCode)
+![GitHub top language](https://img.shields.io/github/languages/top/A1aM0/DataStructure-and-Algorithm)
+![LeetCode](https://badgen.net/github/stars/A1aM0/DataStructure-and-Algorithm)
+![LeetCode](https://badgen.net/github/commits/A1aM0/DataStructure-and-Algorithm)
+![LeetCode](https://badgen.net/github/last-commit/A1aM0/DataStructure-and-Algorithm)
 
 > 编程环境：Linux-Mint 19.2，gcc version 7.4.0 ，cmake version 3.10.2，IDE Clion2019
 
