@@ -8,6 +8,6 @@
 > 编程环境：Linux-Mint 19.2，gcc version 7.4.0 ，cmake version 3.10.2，IDE Clion2019
 
 
-排序算法 -> [README](八大排序算法/概述.md) 
+排序算法 -> [README](八大排序算法/README.md) 
 
 Leetcode做过的算法题，已注明题号、难易 -> [README](Leetcode/README.md)
