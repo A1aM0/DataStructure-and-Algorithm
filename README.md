@@ -86,8 +86,9 @@
 | 200 | 岛屿数量 | [cpp](200-Number_of_Islands/main.cpp) | 中等 |
 | 202 | 快乐数 | [cpp](202-Happy_Number/main.cpp) | 简单 |
 | 203 | 移除链表元素 | [cpp](203-Remove_Linked_List_Elements/main.cpp) | 简单 |
-| 206 | 反转链表 | [cpp](206-Reverse_Linked_List/main.cpp) | 简单 |
+| 204 | 计数质数 | [cpp](204-Count_Primes/main.cpp) | 简单 |
 | 205 | 同构字符串 | [cpp](205-Isomorphic_Strings/main.cpp) | 简单 |
+| 206 | 反转链表 | [cpp](206-Reverse_Linked_List/main.cpp) | 简单 |
 | 209 | 长度最小的子数组（未完） | [cpp](209_Minimum_Size_Subarray_Sum/main.cpp) | 中等|
 | 217 | 存在重复元素 | [cpp](217-Contains_Duplicate/main.cpp) | 简单 |
 | 219 | 存在重复元素 II | [cpp](219-Contains_Duplicate_II/main.cpp) | 简单 |
