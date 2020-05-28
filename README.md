@@ -110,6 +110,7 @@
 | 374 | 猜数字大小 | [cpp](374-Guess_Number_Higher_or_Lower/main.cpp) | 简单 |
 | 384 | 打乱数组 | [cpp](384-Shuffle_an_Array/main.cpp) | 中等 |
 | 387 | 字符串中的第一个唯一字符 | [cpp](387-First_Unique_Character_in_a_String/main.cpp) | 简单 |
+| 394 | 字符串解码 | [cpp](394-Decode_String/main.cpp) | 中等 |
 | 412 | Fizz Buzz | [cpp](412-Fizz_Buzz/main.cpp) | 简单 |
 | 445 | 两数相加 II | [cpp](445-Add_Two_Numbers_II/main.cpp) | 中等 |
 | 450 | 删除二叉搜索树中的节点 | [cpp](450-Delete_Node_in_a_BST/main.cpp) | 中等 |
