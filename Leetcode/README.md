@@ -37,6 +37,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 69 | x 的平方根 | [cpp](69-Sqrt(x)/main.cpp) | 简单 |
 | 70 | 爬楼梯 | [cpp](704-Binary_Search/main.cpp) | 简单 |
 | 76 | 最小覆盖子串 | [cpp](76-Minimum_Window_Substring/main.cpp) | 困难 |
+| 84 | 柱状图中最大的矩形 | [cpp](84-Largest_Rectangle_in_Histogram/main.cpp) | 困难 |
 | 88 | 合并两个有序数组 | [cpp](88-Merge_Sorted_Array/main.cpp) | 简单 |
 | 94 | 二叉树的中序遍历 | [cpp](94-Binary_Tree_Inorder_Traversal/main.cpp) | 中等 |
 | 98 | 验证二叉搜索树 | [cpp](98-Validate_Binary_Search_Tree/main.cpp) | 中等 |
