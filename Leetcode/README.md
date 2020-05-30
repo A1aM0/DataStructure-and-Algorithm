@@ -10,6 +10,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 5 | 最长回文子串 | [cpp](5_Longest_Palindromic_Substring/main.cpp) | 中等 |
 | 7 | 整数反转 | [cpp](7-Reverse_Integer/main.cpp) | 简单 |
 | 8 | 字符串转换整数 (atoi) | [cpp](8-String_to_Integer(atoi)/main.cpp) | 中等 |
+| 13 | 罗马数字转整数 | [cpp](13-Roman_to_Integer/main.cpp) | 简单 |
 | 14 | 最长公共前缀 | [cpp](14_Longest_Common_Prefix/main.cpp) | 简单 |
 | 19 | 删除链表的倒数第N个节点 | [cpp](19-Remove_Nth_Node_From_End_of_List/main.cpp) | 中等 |
 | 20 | 有效的括号 | [cpp](20-Valid_Parentheses/main.cpp) | 简单 |
