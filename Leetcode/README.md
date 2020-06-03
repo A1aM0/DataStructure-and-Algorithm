@@ -142,6 +142,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 1114 | 按序打印 | [cpp](1114-Print_in_Order/main.cpp) | 简单 |
 | 1115 | 交替打印FooBar | [cpp](1115-Print_FooBar_Alternately/main.cpp) | 中等 |
 | 1116 | 打印零与奇偶数 | [cpp](1116-Print_Zero_Even_Odd/main.cpp) | 中等 |
+| 1117 | H2O 生成 | [cpp](1117-Building_H2O/main.cpp) | 中等 |
 | 1431 | 拥有最多糖果的孩子 | [cpp](1431-Kids_With_the_Greatest_Number_of_Candies/main.cpp) | 简单 |
 | 1371 | 每个元音包含偶数次的最长子字符串 | [cpp](1371-Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts/main.cpp) | 中等 |
 | 面试题 62 | 圆圈中最后剩下的数字 | [cpp](Interview-question-The_last_number_left_in_circle/main.cpp) | 简单 |
