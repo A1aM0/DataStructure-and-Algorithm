@@ -140,6 +140,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 914 | 卡牌分组 | [cpp](914-X_of_a_%20Kind_in_a_Deck_of_Cards/main.cpp) | 简单 |
 | 974 | 和可被 K 整除的子数组 | [cpp](974-Subarray_Sums_Divisible_by_K/main.cpp) | 中等 |
 | 1114 | 按序打印 | [cpp](1114-Print_in_Order/main.cpp) | 简单 |
+| 1115 | 交替打印FooBar | [cpp](1115-Print_FooBar_Alternately/main.cpp) | 中等 |
 | 1431 | 拥有最多糖果的孩子 | [cpp](1431-Kids_With_the_Greatest_Number_of_Candies/main.cpp) | 简单 |
 | 1371 | 每个元音包含偶数次的最长子字符串 | [cpp](1371-Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts/main.cpp) | 中等 |
 | 面试题 62 | 圆圈中最后剩下的数字 | [cpp](Interview-question-The_last_number_left_in_circle/main.cpp) | 简单 |
