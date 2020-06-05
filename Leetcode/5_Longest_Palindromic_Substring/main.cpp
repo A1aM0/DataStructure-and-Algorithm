@@ -44,6 +44,31 @@ public:
         /// 返回边界为left和right的子串，left和right在while循环里被多运算了一遍
         return s.substr(++left, right - left - 1);
     }
+
+    string longestPalindrome2(string s) { // 官方题解搬运，DP
+        int n = s.size();
+        vector<vector<int>> dp(n, vector<int>(n));
+        string ans;
+        for (int l = 0; l < n; ++l) {
+            for (int i = 0; i + l < n; ++i) {
+                int j = i + l;
+                if (l == 0) {
+                    dp[i][j] = 1;
+                }
+                else if (l == 1) {
+                    dp[i][j] = (s[i] == s[j]);
+                }
+                else {
+                    dp[i][j] = (s[i] == s[j] && dp[i + 1][j - 1]);
+                }
+
+                if (dp[i][j] && l + 1 > ans.size()) {
+                    ans = s.substr(i, l + 1);
+                }
+            }
+        }
+        return ans;
+    }
 };
 
 int main() {
