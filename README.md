@@ -14,5 +14,5 @@ Leetcode做过的算法题，已注明题号、难易
 - [浏览](Leetcode/README.md)
 
 《剑指Offer》
-- [浏览](剑指Offer/README.md)
-- 其中`SourceCode`文件夹下为作者源码，使用git submodule作为子模块clone下来的，源代码仓库戳[这里](https://github.com/zhedahht/CodingInterviewChinese2)
+- [浏览](CodingInterview/README.md)
+- 其中`CodingInterviewChinese2-master`压缩包下为作者源码，源代码仓库戳[这里](https://github.com/zhedahht/CodingInterviewChinese2)
