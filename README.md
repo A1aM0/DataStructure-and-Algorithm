@@ -11,8 +11,8 @@
 排序算法 -> [README](八大排序算法/README.md) 
 
 Leetcode做过的算法题，已注明题号、难易 
-- [浏览](Leetcode/README.md)
+- [浏览](Leetcode/)
 
 《剑指Offer》
-- [浏览](CodingInterview/README.md)
+- [浏览](CodingInterview/)
 - 其中`CodingInterviewChinese2-master`压缩包下为作者源码，源代码仓库戳[这里](https://github.com/zhedahht/CodingInterviewChinese2)
