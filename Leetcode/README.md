@@ -10,6 +10,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 5 | 最长回文子串 | [cpp](5_Longest_Palindromic_Substring/main.cpp) | 中等 |
 | 7 | 整数反转 | [cpp](7-Reverse_Integer/main.cpp) | 简单 |
 | 8 | 字符串转换整数 (atoi) | [cpp](8-String_to_Integer(atoi)/main.cpp) | 中等 |
+| 9 | 回文数 | [cpp](9-Palindrome_Number/main.cpp) | 简单 |
 | 13 | 罗马数字转整数 | [cpp](13-Roman_to_Integer/main.cpp) | 简单 |
 | 14 | 最长公共前缀 | [cpp](14_Longest_Common_Prefix/main.cpp) | 简单 |
 | 15 | 三数之和 | [cpp](15-3_Sum/main.cpp) | 中等 |
