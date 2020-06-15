@@ -104,6 +104,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 322 | 零钱兑换 | [cpp](322-Coin_Change/main.cpp) | 中等 |
 | 326 | 3的幂 | [cpp](326-Power_of_Three/main.cpp) | 简单 |
 | 328 | 奇偶链表 | [cpp](328-Odd_Even_Linked_List/main.cpp) | 中等 |
+| 334 | 递增的三元子序列 | [cpp](334-Increasing_Triplet_Subsequence/main.cpp) | 中等 |
 | 344 | 反转字符串 | [cpp](344_Reverse_String/main.cpp) | 简单 |
 | 347 | 前 K 个高频元素 | [cpp](347-Top_K_Frequent_Elements/main.cpp) | 中等 |
 | 349 | 两个数组的交集 | [cpp](349-Intersection_of_Two_Arrays/main.cpp) | 简单 |
