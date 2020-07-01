@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(718_Maximum_Length_of_Repeated_Subarray)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(718_Maximum_Length_of_Repeated_Subarray main.cpp)
