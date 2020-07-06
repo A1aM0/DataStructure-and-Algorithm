@@ -36,6 +36,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 55 | 跳跃游戏 | [cpp](55-Jump_Game/main.cpp) | 中等 |
 | 56 | 合并区间 | [cpp](56-Merge_Intervals/main.cpp) | 中等 |
 | 61 | 旋转链表 | [cpp](61-Rotate_List/main.cpp) | 中等 |
+| 63 | 不同路径 II | [cpp](63-Unique_Paths_II/main.cpp) | 中等 |
 | 66 | 加一 | [cpp](66_Plus_One/main.cpp) | 简单 |
 | 67 | 二进制求和 | [cpp](67_Add_Binary/main.cpp) | 简单 |
 | 69 | x 的平方根 | [cpp](69-Sqrt(x)/main.cpp) | 简单 |
