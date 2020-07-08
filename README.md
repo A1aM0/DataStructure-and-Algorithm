@@ -16,3 +16,6 @@ Leetcode做过的算法题，已注明题号、难易
 《剑指Offer》
 - [浏览](CodingInterview/)
 - 其中`CodingInterviewChinese2-master`压缩包下为作者源码，源代码仓库戳[这里](https://github.com/zhedahht/CodingInterviewChinese2)
+
+《程序员面试金典》
+- [浏览](CrackingTheCodingInterview/)
