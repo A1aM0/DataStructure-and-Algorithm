@@ -14,6 +14,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 13 | 罗马数字转整数 | [cpp](13-Roman_to_Integer/main.cpp) | 简单 |
 | 14 | 最长公共前缀 | [cpp](14_Longest_Common_Prefix/main.cpp) | 简单 |
 | 15 | 三数之和 | [cpp](15-3_Sum/main.cpp) | 中等 |
+| 17 | 电话号码的字母组合 | [cpp](17-Letter_Combinations_of_a_Phone_Number/main.cpp) | 中等 |
 | 19 | 删除链表的倒数第N个节点 | [cpp](19-Remove_Nth_Node_From_End_of_List/main.cpp) | 中等 |
 | 20 | 有效的括号 | [cpp](20-Valid_Parentheses/main.cpp) | 简单 |
 | 21 | 合并两个有序的链表 | [cpp](21-Merge_Two_Sorted_Lists/main.cpp) | 简单 |
