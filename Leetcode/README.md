@@ -48,6 +48,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 84 | 柱状图中最大的矩形 | [cpp](84-Largest_Rectangle_in_Histogram/main.cpp) | 困难 |
 | 88 | 合并两个有序数组 | [cpp](88-Merge_Sorted_Array/main.cpp) | 简单 |
 | 94 | 二叉树的中序遍历 | [cpp](94-Binary_Tree_Inorder_Traversal/main.cpp) | 中等 |
+| 95 | 不同的二叉搜索树 II | [cpp](95-Unique_Binary_Search_Trees_II/main.cpp) | 中等 |
 | 98 | 验证二叉搜索树 | [cpp](98-Validate_Binary_Search_Tree/main.cpp) | 中等 |
 | 100 | 相同的树 | [cpp](100-Same_Tree/main.cpp) | 简单 |
 | 101 | 对称二叉树 | [cpp](101-Symmetric_Tree/main.cpp) | 简单 |
