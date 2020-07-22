@@ -120,6 +120,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 350 | 两个数组的交集 II | [cpp](350-Intersection_of_Two_Arrays_II/main.cpp) | 简单 |
 | 367 | 有效的完全平方数 | [cpp](367-Valid_Perfect_Square/main.cpp) | 简单 |
 | 374 | 猜数字大小 | [cpp](374-Guess_Number_Higher_or_Lower/main.cpp) | 简单 |
+| 380 | 常数时间插入、删除和获取随机元素 | [cpp](380-Insert_Delete_GetRandom_O(1)/main.cpp) | 中等 |
 | 384 | 打乱数组 | [cpp](384-Shuffle_an_Array/main.cpp) | 中等 |
 | 387 | 字符串中的第一个唯一字符 | [cpp](387-First_Unique_Character_in_a_String/main.cpp) | 简单 |
 | 394 | 字符串解码 | [cpp](394-Decode_String/main.cpp) | 中等 |
