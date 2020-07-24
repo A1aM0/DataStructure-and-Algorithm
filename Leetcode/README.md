@@ -45,6 +45,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 69 | x 的平方根 | [cpp](69-Sqrt(x)/main.cpp) | 简单 |
 | 70 | 爬楼梯 | [cpp](704-Binary_Search/main.cpp) | 简单 |
 | 73 | 矩阵置零 | [cpp](73-Set_Matrix_Zeroes/main.cpp) | 中等 |
+| 75 | 颜色分类 | [cpp](75-Sort_Colors/main.cpp) | 中等 |
 | 76 | 最小覆盖子串 | [cpp](76-Minimum_Window_Substring/main.cpp) | 困难 |
 | 78 | 子集 | [cpp](78-Subsets/main.cpp) | 中等 |
 | 79 | 单词搜索 | [cpp](79-Word_Search/main.cpp) | 中等 |
