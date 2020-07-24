@@ -47,6 +47,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 73 | 矩阵置零 | [cpp](73-Set_Matrix_Zeroes/main.cpp) | 中等 |
 | 76 | 最小覆盖子串 | [cpp](76-Minimum_Window_Substring/main.cpp) | 困难 |
 | 78 | 子集 | [cpp](78-Subsets/main.cpp) | 中等 |
+| 79 | 单词搜索 | [cpp](79-Word_Search/main.cpp) | 中等 |
 | 84 | 柱状图中最大的矩形 | [cpp](84-Largest_Rectangle_in_Histogram/main.cpp) | 困难 |
 | 88 | 合并两个有序数组 | [cpp](88-Merge_Sorted_Array/main.cpp) | 简单 |
 | 94 | 二叉树的中序遍历 | [cpp](94-Binary_Tree_Inorder_Traversal/main.cpp) | 中等 |
