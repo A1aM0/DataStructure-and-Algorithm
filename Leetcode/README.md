@@ -129,6 +129,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 380 | 常数时间插入、删除和获取随机元素 | [cpp](380-Insert_Delete_GetRandom_O(1)/main.cpp) | 中等 |
 | 384 | 打乱数组 | [cpp](384-Shuffle_an_Array/main.cpp) | 中等 |
 | 387 | 字符串中的第一个唯一字符 | [cpp](387-First_Unique_Character_in_a_String/main.cpp) | 简单 |
+| 392 | 判断子序列 | [cpp](392-Is_Subsequence/main.cpp) | 简单 |
 | 394 | 字符串解码 | [cpp](394-Decode_String/main.cpp) | 中等 |
 | 410 | 分割数组的最大值 | [cpp](410-Split_Array_Largest_Sum/main.cpp) | 困难 |
 | 412 | Fizz Buzz | [cpp](412-Fizz_Buzz/main.cpp) | 简单 |
