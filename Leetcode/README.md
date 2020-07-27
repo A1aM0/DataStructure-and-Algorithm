@@ -38,6 +38,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 55 | 跳跃游戏 | [cpp](55-Jump_Game/main.cpp) | 中等 |
 | 56 | 合并区间 | [cpp](56-Merge_Intervals/main.cpp) | 中等 |
 | 61 | 旋转链表 | [cpp](61-Rotate_List/main.cpp) | 中等 |
+| 62 | 不同路径 | [cpp](62-Unique_Paths/main.cpp) | 中等 |
 | 63 | 不同路径 II | [cpp](63-Unique_Paths_II/main.cpp) | 中等 |
 | 64 | 最小路径和 | [cpp](64-Minimum_Path_Sum/main.cpp) | 中等 |
 | 66 | 加一 | [cpp](66_Plus_One/main.cpp) | 简单 |
