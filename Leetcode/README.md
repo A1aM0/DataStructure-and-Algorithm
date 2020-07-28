@@ -116,6 +116,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 283 | 移动零 | [cpp](283-Move_Zeroes/main.cpp) | 简单 |
 | 287 | 寻找重复数 | [cpp](278-First_Bad_Version/main.cpp) | 中等 |
 | 297 | 二叉树的序列化与反序列化 | [cpp](297-Serialize_and_Deserialize_Binary_Tree/main.cpp) | 困难 |
+| 300 | 最长上升子序列 | [cpp](300-Longest_Increasing_Subsequence/main.cpp) | 中等 |
 | 322 | 零钱兑换 | [cpp](322-Coin_Change/main.cpp) | 中等 |
 | 326 | 3的幂 | [cpp](326-Power_of_Three/main.cpp) | 简单 |
 | 328 | 奇偶链表 | [cpp](328-Odd_Even_Linked_List/main.cpp) | 中等 |
