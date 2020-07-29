@@ -87,6 +87,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 160 | 相交链表 | [cpp](160-Intersection_of_Two_Linked_Lists/main.cpp) | 简单 |
 | 162 | 寻找峰值 | [cpp](162-Find_Peak_Element/main.cpp) | 中等 |
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
+| 172 | 阶乘后的零 | [cpp](172-Factorial_Trailing_Zeroes/main.cpp) | 简单 |
 | 173 | 二叉搜索树迭代器 | [cpp](173-Binary_Search_Tree_Iterator/main.cpp) | 中等 |
 | 189 | 旋转数组 | [cpp](189-Rotate_Array/main.cpp) | 简单 | 
 | 190 | 颠倒二进制位 | [cpp](190-Reverse_Bits/main.cpp) | 简单 |
