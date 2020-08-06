@@ -89,6 +89,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 162 | 寻找峰值 | [cpp](162-Find_Peak_Element/main.cpp) | 中等 |
 | 166 | 分数到小数 | [cpp](166-Fraction_to_Recurring_Decimal/main.cpp) | 中等 |
 | 167 | 两数之和 II - 输入有序数组 | [cpp](167_Two_Sum_II/main.cpp) | 简单 |
+| 169 | 多数元素 | [cpp](169-Majority_Element/main.cpp) | 简单 |
 | 171 | Excel表列序号 | [cpp](171-Excel_Sheet_Column_Number/main.cpp) | 简单 |
 | 172 | 阶乘后的零 | [cpp](172-Factorial_Trailing_Zeroes/main.cpp) | 简单 |
 | 173 | 二叉搜索树迭代器 | [cpp](173-Binary_Search_Tree_Iterator/main.cpp) | 中等 |
