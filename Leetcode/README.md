@@ -175,6 +175,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 744 | 寻找比目标字母大的最小字母 | [cpp](744-Find_Smallest_Letter_Greater_Than_Target/main.cpp) | 简单 |
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
 | 771 | 宝石与石头 | [cpp](771-Jewels_and_Stones/main.cpp) | 简单 |
+| 887 | 鸡蛋掉落 | [cpp](887-Super_Egg_Drop/main.cpp) | 困难 |
 | 914 | 卡牌分组 | [cpp](914-X_of_a_%20Kind_in_a_Deck_of_Cards/main.cpp) | 简单 |
 | 974 | 和可被 K 整除的子数组 | [cpp](974-Subarray_Sums_Divisible_by_K/main.cpp) | 中等 |
 | 1114 | 按序打印 | [cpp](1114-Print_in_Order/main.cpp) | 简单 |
