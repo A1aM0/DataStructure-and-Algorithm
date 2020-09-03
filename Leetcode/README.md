@@ -35,6 +35,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 48 | 旋转图像 | [cpp](48-Rotate_Image/main.cpp) | 中等 |
 | 49 | 字母异位词分组 | [cpp](49-Group_Anagrams/main.cpp) | 中等 |
 | 50 | Pow(x, n) | [cpp](50-Pow_Function/main.cpp) | 中等 |
+| 51 | N皇后 | [cpp](51-N_Queens/main.cpp) | 困难 |
 | 53 | 最大子序和 | [cpp](53-Maximum_Subarray/main.cpp) | 简单 |
 | 54 | 螺旋矩阵 | [cpp](54_Spiral_Matrix/main.cpp) | 中等 |
 | 55 | 跳跃游戏 | [cpp](55-Jump_Game/main.cpp) | 中等 |
