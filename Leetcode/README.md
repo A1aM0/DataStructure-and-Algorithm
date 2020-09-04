@@ -118,6 +118,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 238 | 除自身以外数组的乘积 | [cpp](238-Product_of_Array_Except_Self/main.cpp) | 中等 |
 | 240 | 搜索二维矩阵 II | [cpp](204-Count_Primes/main.cpp) | 中等 |
 | 242 | 有效的字母异位词 | [cpp](242-Valid_Anagram/main.cpp) | 简单 |
+| 257 | 二叉树的所有路径 | [cpp](257-Binary_Tree_Paths/main.cpp) | 简单 |
 | 268 | 缺失数字 | [cpp](268-Missing_Number/main.cpp) | 简单 |
 | 278 | 第一个错误的版本 | [cpp](278-First_Bad_Version/main.cpp) | 简单 |
 | 283 | 移动零 | [cpp](283-Move_Zeroes/main.cpp) | 简单 |
