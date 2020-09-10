@@ -31,6 +31,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 36 | 有效的数独 | [cpp](36-Valid_Sudoku/main.cpp) | 中等 |
 | 38 | 外观数列 | [cpp](38-Count_and_Say/main.cpp) | 简单 |
 | 39 | 组合总和 | [39](39-Combination_Sum/main.cpp) | 中等 |
+| 40 | 组合总和II | [40](40-Combination_Sum_II/main.cpp) | 中等 |
 | 43 | 字符串相乘 | [cpp](43-Multiply_Strings/main.cpp) | 中等 |
 | 46 | 全排列 | [cpp](46-Permutations/main.cpp) | 中等 |
 | 48 | 旋转图像 | [cpp](48-Rotate_Image/main.cpp) | 中等 |
