@@ -163,6 +163,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 599 | 两个列表的最小索引总和 | [cpp](599-Minimum_Index_Sum_of_Two_Lists/main.cpp) | 简单 |
 | 621 | 任务调度器 | [cpp](621-Task_Scheduler/main.cpp) | 中等 |
 | 622 | 设计循环队列 | [cpp](622-Design_Circular_Queue/main.cpp) | 中等 |
+| 637 | 二叉树的层平均值 | [cpp](637-Average_of_Levels_in_Binary_Tree/main.cpp) | 简单 |
 | 652 | 寻找重复的子树 | [cpp](652-Find_Duplicate_Subtrees/main.cpp) | 中等 |
 | 657 | 机器人能否返回原点 | [cpp](657-Robot_Return_to_Origin/main.cpp) | 简单 |
 | 658 | 找到 K 个最接近的元素 | [cpp](658-Find_K_Closest_Elements/main.cpp) | 中等 |
