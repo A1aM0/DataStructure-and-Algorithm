@@ -29,6 +29,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 34 | 在排序数组中查找元素的第一个和最后一个位置 | [cpp](34-Find_First_and_Last_Position_of_Element_in_Sorted_Array/main.cpp) | 中等 |
 | 35 | 搜索插入位置 | [cpp](35-Search_Insert_Position/main.cpp) | 简单 |
 | 36 | 有效的数独 | [cpp](36-Valid_Sudoku/main.cpp) | 中等 |
+| 37 | 解数独 | [cpp](37-Sudoku_Solver/main.cpp) | 困难 |
 | 38 | 外观数列 | [cpp](38-Count_and_Say/main.cpp) | 简单 |
 | 39 | 组合总和 | [39](39-Combination_Sum/main.cpp) | 中等 |
 | 40 | 组合总和II | [40](40-Combination_Sum_II/main.cpp) | 中等 |
