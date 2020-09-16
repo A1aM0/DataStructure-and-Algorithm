@@ -118,6 +118,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 219 | 存在重复元素 II | [cpp](219-Contains_Duplicate_II/main.cpp) | 简单 |
 | 220 | 存在重复元素 III | [cpp](220-Contains_Duplicate_III/main.cpp) | 中等 |
 | 221 | 最大正方形 | [cpp](221-Maximal_Square/main.cpp) | 中等 |
+| 226 | 翻转二叉树 | [cpp](226-Invert_Binary_Tree/main.cpp) | 简单 |
 | 230 | 二叉搜索树中第K小的元素 | [cpp](230-Kth_Smallest_Element_in_a_BST/main.cpp) | 中等 |
 | 234 | 回文链表 | [cpp](234-Palindrome_Linked_List/main.cpp) | 简单 |
 | 235 | 二叉搜索树的最近公共祖先 | [cpp](235-Lowest_Common_Ancestor_of_a_Binary_Search_Tree/main.cpp) | 简单 |
