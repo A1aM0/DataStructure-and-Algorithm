@@ -188,6 +188,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 841 | 钥匙和房间 | [cpp](841-Keys_and_Rooms/main.cpp) | 中等 |
 | 887 | 鸡蛋掉落 | [cpp](887-Super_Egg_Drop/main.cpp) | 困难 |
 | 914 | 卡牌分组 | [cpp](914-X_of_a_%20Kind_in_a_Deck_of_Cards/main.cpp) | 简单 |
+| 968 | 监控二叉树 | [cpp](968-Binary_Tree_Cameras/main.cpp) | 困难 |
 | 974 | 和可被 K 整除的子数组 | [cpp](974-Subarray_Sums_Divisible_by_K/main.cpp) | 中等 |
 | 1114 | 按序打印 | [cpp](1114-Print_in_Order/main.cpp) | 简单 |
 | 1115 | 交替打印FooBar | [cpp](1115-Print_FooBar_Alternately/main.cpp) | 中等 |
