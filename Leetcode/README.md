@@ -163,6 +163,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 561 | 数组拆分 I | [cpp](561_Array_Partition_I/main.cpp) | 简单 |
 | 572 | 另一个树的子树 | [cpp](572-Subtree_of_Another_Tree/main.cpp) | 简单 |
 | 599 | 两个列表的最小索引总和 | [cpp](599-Minimum_Index_Sum_of_Two_Lists/main.cpp) | 简单 |
+| 617 | 合并二叉树 | [cpp](617-Merge_Two_Binary_Trees/main.cpp) | 简单 |
 | 621 | 任务调度器 | [cpp](621-Task_Scheduler/main.cpp) | 中等 |
 | 622 | 设计循环队列 | [cpp](622-Design_Circular_Queue/main.cpp) | 中等 |
 | 637 | 二叉树的层平均值 | [cpp](637-Average_of_Levels_in_Binary_Tree/main.cpp) | 简单 |
