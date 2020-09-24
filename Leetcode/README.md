@@ -157,6 +157,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 461 | 汉明距离 | [cpp](461-Hamming_Distance/main.cpp) | 简单 |
 | 485 | 最大连续1的个数 | [cpp](485_Max_Consecutive_Ones/main.cpp) | 简单 |
 | 498 | 对角线遍历 | [cpp](498_Diagonal_traverse/main.cpp) | 中等 |
+| 501 | 二叉搜索树中的众数 | [cpp](501-Find_Mode_in_Binary_Search_Tree/main.cpp) | 简单 |
 | 529 | 扫雷游戏 | [cpp](529-Minesweeper/main.cpp) | 中等 |
 | 557 | 反转字符串中的单词 III | [cpp](557-Reverse_Words_in_a_String&#32;III/main.cpp) | 简单 |
 | 560 | 和为K的子数组 | [cpp](560-Subarray_Sum_Equals_K/main.cpp) | 中等 |
