@@ -198,6 +198,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 1117 | H2O 生成 | [cpp](1117-Building_H2O/main.cpp) | 中等 |
 | 1431 | 拥有最多糖果的孩子 | [cpp](1431-Kids_With_the_Greatest_Number_of_Candies/main.cpp) | 简单 |
 | 1371 | 每个元音包含偶数次的最长子字符串 | [cpp](1371-Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts/main.cpp) | 中等 |
+| LCP 19 | 秋叶收藏集 | [cpp](LCP-19/main.cpp) | 中等 |
 | 面试题 62 | 圆圈中最后剩下的数字 | [cpp](Interview-question-The_last_number_left_in_circle/main.cpp) | 简单 |
 | 面试题 64 | 求1+2+…+n | [cpp](Interview-question-Sum_Natural_Numbers/main.cpp) | 中等 |
 | 面试题 68 - II | 二叉树的最近公共祖先 | [cpp](InterviewQuestion-68-II_Lowest_Common_Ancestors_of_Binary_Tree/main.cpp) | 简单 |
