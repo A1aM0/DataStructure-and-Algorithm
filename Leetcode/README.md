@@ -190,6 +190,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
 | 771 | 宝石与石头 | [cpp](771-Jewels_and_Stones/main.cpp) | 简单 |
 | 841 | 钥匙和房间 | [cpp](841-Keys_and_Rooms/main.cpp) | 中等 |
+| 844 | 比较含退格的字符串 | [cpp](844-Backspace_String_Compare/main.cpp) | 简单 |
 | 887 | 鸡蛋掉落 | [cpp](887-Super_Egg_Drop/main.cpp) | 困难 |
 | 914 | 卡牌分组 | [cpp](914-X_of_a_%20Kind_in_a_Deck_of_Cards/main.cpp) | 简单 |
 | 968 | 监控二叉树 | [cpp](968-Binary_Tree_Cameras/main.cpp) | 困难 |
