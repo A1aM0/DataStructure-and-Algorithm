@@ -188,6 +188,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 739 | 每日温度 | [cpp](739-Daily_Temperatures/main.cpp) | 中等 |
 | 744 | 寻找比目标字母大的最小字母 | [cpp](744-Find_Smallest_Letter_Greater_Than_Target/main.cpp) | 简单 |
 | 747 | 至少是其他数字两倍的最大数 | [cpp](747_Largest_Number_At_Least_Twice_Of_Others/main.cpp) | 简单 |
+| 763 | 划分字母区间 | [cpp](763-Partition_Labels/main.cpp) | 中等 |
 | 771 | 宝石与石头 | [cpp](771-Jewels_and_Stones/main.cpp) | 简单 |
 | 841 | 钥匙和房间 | [cpp](841-Keys_and_Rooms/main.cpp) | 中等 |
 | 844 | 比较含退格的字符串 | [cpp](844-Backspace_String_Compare/main.cpp) | 简单 |
