@@ -20,6 +20,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 20 | 有效的括号 | [cpp](20-Valid_Parentheses/main.cpp) | 简单 |
 | 21 | 合并两个有序的链表 | [cpp](21-Merge_Two_Sorted_Lists/main.cpp) | 简单 |
 | 22 | 括号生成 | [cpp](28_%20Implement_strStr/main.cpp) | 中等 |
+| 24 | 两两交换链表中的节点 | [cpp](24-Swap_Nodes_in_Pairs/main.cpp) | 中等 |
 | 25 | K 个一组翻转链表 | [cpp](25_Reverse_Nodes_in_k_Group/main.cpp) | 困难 |
 | 26 | 删除排序数组中的重复项 | [cpp](26-Remove_Duplicates_From_Sorted_Arrays/main.cpp) | 简单 |
 | 27 | 移除元素 | [cpp](27-Remove_Element/main.cpp) | 简单|
