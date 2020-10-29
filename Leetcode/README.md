@@ -84,6 +84,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 121 | 买卖股票的最佳时机 | [cpp](121-Best_Time_To_Buy_And_Sell_Stock/main.cpp) | 简单 |
 | 125 | 验证回文字符串 | [cpp](125_Valid_Palindrome/main.cpp) | 简单 |
 | 128 | 最长连续序列 | [cpp](128-Longest_Consecutive_Sequence/main.cpp) | 困难 |
+| 129 | 求根到叶子节点数字之和 | [cpp](129-Sum_Root_to_Leaf_Numbers/main.cpp) | 中等 |
 | 136 | 只出现一次的数 | [cpp](136-Single_Number/main.cpp) | 简单 |
 | 141 | 环形链表I | [cpp](141-Linked_List_Cycle/main.cpp) | 简单 |
 | 142 | 环形链表II | [cpp](142-Linked_List_Cycle_II/main.cpp) | 中等 |
