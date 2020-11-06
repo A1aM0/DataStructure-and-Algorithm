@@ -208,6 +208,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 1207 | 独一无二的出现次数 | [cpp](1207-Unique_Number_of_Occurrences/main.cpp) | 简单 |
 | 1365 | 有多少小于当前数字的数字 | [cpp](1365-How_Many_Numbers_Are_Smaller_Than_the_Current_Number/main.cpp) | 简单 |
 | 1431 | 拥有最多糖果的孩子 | [cpp](1431-Kids_With_the_Greatest_Number_of_Candies/main.cpp) | 简单 |
+| 1356 | 根据数字二进制下 1 的数目排序 | [cpp](1356-Sort_Integers_by_The_Number_of_1_Bits/main.cpp) | 简单 |
 | 1371 | 每个元音包含偶数次的最长子字符串 | [cpp](1371-Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts/main.cpp) | 中等 |
 | LCP 19 | 秋叶收藏集 | [cpp](LCP-19/main.cpp) | 中等 |
 | 面试题 62 | 圆圈中最后剩下的数字 | [cpp](Interview-question-The_last_number_left_in_circle/main.cpp) | 简单 |
