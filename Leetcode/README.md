@@ -154,6 +154,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 387 | 字符串中的第一个唯一字符 | [cpp](387-First_Unique_Character_in_a_String/main.cpp) | 简单 |
 | 392 | 判断子序列 | [cpp](392-Is_Subsequence/main.cpp) | 简单 |
 | 394 | 字符串解码 | [cpp](394-Decode_String/main.cpp) | 中等 |
+| 406 | 根据身高重建队列 | [cpp](406-Queue_Reconstruction_by_Height/main.cpp) | 中等 |
 | 410 | 分割数组的最大值 | [cpp](410-Split_Array_Largest_Sum/main.cpp) | 困难 |
 | 412 | Fizz Buzz | [cpp](412-Fizz_Buzz/main.cpp) | 简单 |
 | 416 | 分割等和子集 | [cpp](416-Partition_Equal_Subset_Sum/main.cpp) | 中等 |
