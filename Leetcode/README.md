@@ -204,6 +204,7 @@ LeetCode CN 上做过的题，并记录部分思路
 | 941 | 有效的山脉数组 | [cpp](941-Valid_Mountain_Array/main.cpp) | 简单 |
 | 968 | 监控二叉树 | [cpp](968-Binary_Tree_Cameras/main.cpp) | 困难 |
 | 974 | 和可被 K 整除的子数组 | [cpp](974-Subarray_Sums_Divisible_by_K/main.cpp) | 中等 |
+| 1030 | 距离顺序排列矩阵单元格 | [cpp](1030-Matrix_Cells_in_Distance_Order/main.cpp) | 简单 |
 | 1114 | 按序打印 | [cpp](1114-Print_in_Order/main.cpp) | 简单 |
 | 1115 | 交替打印FooBar | [cpp](1115-Print_FooBar_Alternately/main.cpp) | 中等 |
 | 1116 | 打印零与奇偶数 | [cpp](1116-Print_Zero_Even_Odd/main.cpp) | 中等 |
